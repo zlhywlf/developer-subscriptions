@@ -1,0 +1,1 @@
+cd T:\task && java -jar .\developer-subscriptions-1.0.jar
